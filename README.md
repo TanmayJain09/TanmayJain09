@@ -1,6 +1,6 @@
 <div align="center">
 
-# Tanmay
+# Tanmay Jain
 
 Currently learning: **C++** · **DSA** · **Python**
 
