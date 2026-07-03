@@ -1,6 +1,12 @@
-# Tanmay Jain
+<div align="center">
 
-Currently learning: C++, DSA, Python.
+# Tanmay
+
+Currently learning: **C++** · **DSA** · **Python**
+
+</div>
+
+---
 
 Working on a few projects — not public yet, will share once they're in a working state.
 
