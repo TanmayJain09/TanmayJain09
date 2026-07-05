@@ -8,7 +8,7 @@
 
 ### What I'm doing right now
 
-1. Learning Python — actively, and tracking it honestly as I go. --> [python-learning-log](https://github.com/your-username/python-learning-log)
+1. Learning Python — actively, and tracking it honestly as I go. --> [python-learning-log](https://github.com/TanmayJain09/python-learning-log)
 
 Other projects are in progress but kept private until they're actually worth showing.
 
@@ -17,7 +17,7 @@ Other projects are in progress but kept private until they're actually worth sho
 ### Technologies
 | Language | Link | 
 | ---- | ---- | 
-| Python | Link |
+| Python | [Link](https://github.com/TanmayJain09/python-learning-log) |
 
 
 ### A note on this profile
