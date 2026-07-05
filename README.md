@@ -1,13 +1,20 @@
 <div align="center">
 
-# Tanmay Jain
-
-Currently learning: **C++** · **DSA** · **Python**
+# Hi, I'm Tanmay Jain
 
 </div>
 
----
+<br>
 
-Working on a few projects — not public yet, will share once they're in a working state.
+### What I'm doing right now
 
-Older repos here are from earlier web development work and don't reflect current focus.
+Learning Python — actively, and tracking it honestly as I go.
+1. [python-learning-log](https://github.com/your-username/python-learning-log)
+
+Other projects are in progress but kept private until they're actually worth showing.
+
+<br>
+
+### A note on this profile
+
+This page reflects where I am *today*, not where I'm headed. No future plans listed here — just what's real and built. It'll grow as the work does.
