@@ -8,8 +8,7 @@
 
 ### What I'm doing right now
 
-Learning Python — actively, and tracking it honestly as I go.
-1. [python-learning-log](https://github.com/your-username/python-learning-log)
+1. Learning Python — actively, and tracking it honestly as I go. --> [python-learning-log](https://github.com/your-username/python-learning-log)
 
 Other projects are in progress but kept private until they're actually worth showing.
 
