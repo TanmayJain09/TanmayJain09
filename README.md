@@ -14,6 +14,12 @@ Other projects are in progress but kept private until they're actually worth sho
 
 <br>
 
+### Technologies
+| Language | Link | 
+| ---- | ---- | 
+| Python | Link |
+
+
 ### A note on this profile
 
 This page reflects where I am *today*, not where I'm headed. No future plans listed here — just what's real and built. It'll grow as the work does.
