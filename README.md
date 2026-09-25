@@ -20,6 +20,7 @@ Other projects are in progress but kept private until they're actually worth sho
 | Python | [Link](https://github.com/TanmayJain09/python-learning-log) |
 | C++ | [Link](https://github.com/TanmayJain09/cpp-learning-log.git) |
 | DSA | [Link](https://github.com/TanmayJain09/dsa-learning-log.git) |
+| Machine Learning and Deep Learning | [Link](https://github.com/TanmayJain09/ml-dl-learning-log.git) |
 
 
 ### A note on this profile
